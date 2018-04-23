@@ -1,0 +1,2 @@
+add feature
+from func2
