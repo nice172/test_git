@@ -1,0 +1,5 @@
+解决两个开发人员代码冲突问题后提交的完整文件
+add feature 1 == add feature
+from func1
+from func2
+
