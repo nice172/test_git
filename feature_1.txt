@@ -3,3 +3,4 @@ add feature 1 == add feature
 from func1
 from func2
 
+hotfix_bug
